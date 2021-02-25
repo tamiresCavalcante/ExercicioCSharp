@@ -1,0 +1,13 @@
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\exercicioproposto6\exercicioproposto6\exercicioproposto6\bin\Debug\netcoreapp3.1\exercicioproposto6.exe
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\exercicioproposto6\exercicioproposto6\exercicioproposto6\bin\Debug\netcoreapp3.1\exercicioproposto6.deps.json
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\exercicioproposto6\exercicioproposto6\exercicioproposto6\bin\Debug\netcoreapp3.1\exercicioproposto6.runtimeconfig.json
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\exercicioproposto6\exercicioproposto6\exercicioproposto6\bin\Debug\netcoreapp3.1\exercicioproposto6.runtimeconfig.dev.json
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\exercicioproposto6\exercicioproposto6\exercicioproposto6\bin\Debug\netcoreapp3.1\exercicioproposto6.dll
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\exercicioproposto6\exercicioproposto6\exercicioproposto6\bin\Debug\netcoreapp3.1\exercicioproposto6.pdb
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\exercicioproposto6\exercicioproposto6\exercicioproposto6\obj\Debug\netcoreapp3.1\exercicioproposto6.csprojAssemblyReference.cache
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\exercicioproposto6\exercicioproposto6\exercicioproposto6\obj\Debug\netcoreapp3.1\exercicioproposto6.AssemblyInfoInputs.cache
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\exercicioproposto6\exercicioproposto6\exercicioproposto6\obj\Debug\netcoreapp3.1\exercicioproposto6.AssemblyInfo.cs
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\exercicioproposto6\exercicioproposto6\exercicioproposto6\obj\Debug\netcoreapp3.1\exercicioproposto6.csproj.CoreCompileInputs.cache
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\exercicioproposto6\exercicioproposto6\exercicioproposto6\obj\Debug\netcoreapp3.1\exercicioproposto6.dll
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\exercicioproposto6\exercicioproposto6\exercicioproposto6\obj\Debug\netcoreapp3.1\exercicioproposto6.pdb
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\exercicioproposto6\exercicioproposto6\exercicioproposto6\obj\Debug\netcoreapp3.1\exercicioproposto6.genruntimeconfig.cache

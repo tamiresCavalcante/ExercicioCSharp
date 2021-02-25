@@ -1,0 +1,13 @@
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto4_05\exercicioproposto4_05\exercicioproposto4_05\bin\Debug\netcoreapp3.1\exercicioproposto4_05.exe
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto4_05\exercicioproposto4_05\exercicioproposto4_05\bin\Debug\netcoreapp3.1\exercicioproposto4_05.deps.json
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto4_05\exercicioproposto4_05\exercicioproposto4_05\bin\Debug\netcoreapp3.1\exercicioproposto4_05.runtimeconfig.json
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto4_05\exercicioproposto4_05\exercicioproposto4_05\bin\Debug\netcoreapp3.1\exercicioproposto4_05.runtimeconfig.dev.json
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto4_05\exercicioproposto4_05\exercicioproposto4_05\bin\Debug\netcoreapp3.1\exercicioproposto4_05.dll
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto4_05\exercicioproposto4_05\exercicioproposto4_05\bin\Debug\netcoreapp3.1\exercicioproposto4_05.pdb
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto4_05\exercicioproposto4_05\exercicioproposto4_05\obj\Debug\netcoreapp3.1\exercicioproposto4_05.csprojAssemblyReference.cache
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto4_05\exercicioproposto4_05\exercicioproposto4_05\obj\Debug\netcoreapp3.1\exercicioproposto4_05.AssemblyInfoInputs.cache
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto4_05\exercicioproposto4_05\exercicioproposto4_05\obj\Debug\netcoreapp3.1\exercicioproposto4_05.AssemblyInfo.cs
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto4_05\exercicioproposto4_05\exercicioproposto4_05\obj\Debug\netcoreapp3.1\exercicioproposto4_05.csproj.CoreCompileInputs.cache
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto4_05\exercicioproposto4_05\exercicioproposto4_05\obj\Debug\netcoreapp3.1\exercicioproposto4_05.dll
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto4_05\exercicioproposto4_05\exercicioproposto4_05\obj\Debug\netcoreapp3.1\exercicioproposto4_05.pdb
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto4_05\exercicioproposto4_05\exercicioproposto4_05\obj\Debug\netcoreapp3.1\exercicioproposto4_05.genruntimeconfig.cache

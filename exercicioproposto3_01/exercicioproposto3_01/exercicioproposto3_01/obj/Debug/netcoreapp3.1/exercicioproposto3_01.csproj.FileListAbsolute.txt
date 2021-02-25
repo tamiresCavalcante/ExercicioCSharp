@@ -1,0 +1,13 @@
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto3_01\exercicioproposto3_01\exercicioproposto3_01\bin\Debug\netcoreapp3.1\exercicioproposto3_01.exe
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto3_01\exercicioproposto3_01\exercicioproposto3_01\bin\Debug\netcoreapp3.1\exercicioproposto3_01.deps.json
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto3_01\exercicioproposto3_01\exercicioproposto3_01\bin\Debug\netcoreapp3.1\exercicioproposto3_01.runtimeconfig.json
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto3_01\exercicioproposto3_01\exercicioproposto3_01\bin\Debug\netcoreapp3.1\exercicioproposto3_01.runtimeconfig.dev.json
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto3_01\exercicioproposto3_01\exercicioproposto3_01\bin\Debug\netcoreapp3.1\exercicioproposto3_01.dll
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto3_01\exercicioproposto3_01\exercicioproposto3_01\bin\Debug\netcoreapp3.1\exercicioproposto3_01.pdb
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto3_01\exercicioproposto3_01\exercicioproposto3_01\obj\Debug\netcoreapp3.1\exercicioproposto3_01.csprojAssemblyReference.cache
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto3_01\exercicioproposto3_01\exercicioproposto3_01\obj\Debug\netcoreapp3.1\exercicioproposto3_01.AssemblyInfoInputs.cache
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto3_01\exercicioproposto3_01\exercicioproposto3_01\obj\Debug\netcoreapp3.1\exercicioproposto3_01.AssemblyInfo.cs
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto3_01\exercicioproposto3_01\exercicioproposto3_01\obj\Debug\netcoreapp3.1\exercicioproposto3_01.csproj.CoreCompileInputs.cache
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto3_01\exercicioproposto3_01\exercicioproposto3_01\obj\Debug\netcoreapp3.1\exercicioproposto3_01.dll
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto3_01\exercicioproposto3_01\exercicioproposto3_01\obj\Debug\netcoreapp3.1\exercicioproposto3_01.pdb
+D:\DocumentosDeProgramacao\Programacao\back\c#\exercicioproposto3_01\exercicioproposto3_01\exercicioproposto3_01\obj\Debug\netcoreapp3.1\exercicioproposto3_01.genruntimeconfig.cache

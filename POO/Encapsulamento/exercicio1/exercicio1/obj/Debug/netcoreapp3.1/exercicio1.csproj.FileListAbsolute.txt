@@ -1,0 +1,13 @@
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\Encapsulamento\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.exe
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\Encapsulamento\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.deps.json
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\Encapsulamento\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.runtimeconfig.json
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\Encapsulamento\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.runtimeconfig.dev.json
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\Encapsulamento\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.dll
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\Encapsulamento\exercicio1\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.pdb
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\Encapsulamento\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.csprojAssemblyReference.cache
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\Encapsulamento\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.AssemblyInfoInputs.cache
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\Encapsulamento\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.AssemblyInfo.cs
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\Encapsulamento\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.csproj.CoreCompileInputs.cache
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\Encapsulamento\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.dll
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\Encapsulamento\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.pdb
+D:\DocumentosDeProgramacao\Programacao\back\c#\POO\Encapsulamento\exercicio1\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.genruntimeconfig.cache
