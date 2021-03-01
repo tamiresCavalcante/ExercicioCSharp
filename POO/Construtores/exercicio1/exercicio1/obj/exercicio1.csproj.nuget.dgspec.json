@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DocumentosDeProgramacao\\Programacao\\back\\c#\\POO\\Construtores\\exercicio1\\exercicio1\\exercicio1.csproj": {}
+    "C:\\Users\\tamir\\Source\\Repos\\ExercicioCSharp\\POO\\Construtores\\exercicio1\\exercicio1\\exercicio1.csproj": {}
   },
   "projects": {
-    "D:\\DocumentosDeProgramacao\\Programacao\\back\\c#\\POO\\Construtores\\exercicio1\\exercicio1\\exercicio1.csproj": {
+    "C:\\Users\\tamir\\Source\\Repos\\ExercicioCSharp\\POO\\Construtores\\exercicio1\\exercicio1\\exercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DocumentosDeProgramacao\\Programacao\\back\\c#\\POO\\Construtores\\exercicio1\\exercicio1\\exercicio1.csproj",
+        "projectUniqueName": "C:\\Users\\tamir\\Source\\Repos\\ExercicioCSharp\\POO\\Construtores\\exercicio1\\exercicio1\\exercicio1.csproj",
         "projectName": "exercicio1",
-        "projectPath": "D:\\DocumentosDeProgramacao\\Programacao\\back\\c#\\POO\\Construtores\\exercicio1\\exercicio1\\exercicio1.csproj",
-        "packagesPath": "C:\\Users\\tmire\\.nuget\\packages\\",
-        "outputPath": "D:\\DocumentosDeProgramacao\\Programacao\\back\\c#\\POO\\Construtores\\exercicio1\\exercicio1\\obj\\",
+        "projectPath": "C:\\Users\\tamir\\Source\\Repos\\ExercicioCSharp\\POO\\Construtores\\exercicio1\\exercicio1\\exercicio1.csproj",
+        "packagesPath": "C:\\Users\\tamir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tamir\\Source\\Repos\\ExercicioCSharp\\POO\\Construtores\\exercicio1\\exercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\tmire\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tamir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

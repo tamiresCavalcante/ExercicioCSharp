@@ -1,0 +1,13 @@
+C:\Users\tamir\source\repos\ExercicioCSharp\POO\Arrays e Listas\Exercicio9\Exercicio9\bin\Debug\netcoreapp3.1\Exercicio9.exe
+C:\Users\tamir\source\repos\ExercicioCSharp\POO\Arrays e Listas\Exercicio9\Exercicio9\bin\Debug\netcoreapp3.1\Exercicio9.deps.json
+C:\Users\tamir\source\repos\ExercicioCSharp\POO\Arrays e Listas\Exercicio9\Exercicio9\bin\Debug\netcoreapp3.1\Exercicio9.runtimeconfig.json
+C:\Users\tamir\source\repos\ExercicioCSharp\POO\Arrays e Listas\Exercicio9\Exercicio9\bin\Debug\netcoreapp3.1\Exercicio9.runtimeconfig.dev.json
+C:\Users\tamir\source\repos\ExercicioCSharp\POO\Arrays e Listas\Exercicio9\Exercicio9\bin\Debug\netcoreapp3.1\Exercicio9.dll
+C:\Users\tamir\source\repos\ExercicioCSharp\POO\Arrays e Listas\Exercicio9\Exercicio9\bin\Debug\netcoreapp3.1\Exercicio9.pdb
+C:\Users\tamir\source\repos\ExercicioCSharp\POO\Arrays e Listas\Exercicio9\Exercicio9\obj\Debug\netcoreapp3.1\Exercicio9.csprojAssemblyReference.cache
+C:\Users\tamir\source\repos\ExercicioCSharp\POO\Arrays e Listas\Exercicio9\Exercicio9\obj\Debug\netcoreapp3.1\Exercicio9.AssemblyInfoInputs.cache
+C:\Users\tamir\source\repos\ExercicioCSharp\POO\Arrays e Listas\Exercicio9\Exercicio9\obj\Debug\netcoreapp3.1\Exercicio9.AssemblyInfo.cs
+C:\Users\tamir\source\repos\ExercicioCSharp\POO\Arrays e Listas\Exercicio9\Exercicio9\obj\Debug\netcoreapp3.1\Exercicio9.csproj.CoreCompileInputs.cache
+C:\Users\tamir\source\repos\ExercicioCSharp\POO\Arrays e Listas\Exercicio9\Exercicio9\obj\Debug\netcoreapp3.1\Exercicio9.dll
+C:\Users\tamir\source\repos\ExercicioCSharp\POO\Arrays e Listas\Exercicio9\Exercicio9\obj\Debug\netcoreapp3.1\Exercicio9.pdb
+C:\Users\tamir\source\repos\ExercicioCSharp\POO\Arrays e Listas\Exercicio9\Exercicio9\obj\Debug\netcoreapp3.1\Exercicio9.genruntimeconfig.cache
