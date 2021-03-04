@@ -18,9 +18,6 @@ namespace Exercicio3.Entities
             TotalValue = totalvalue;
             Installments = new List<Installment>();
         }
-        public void AddInstalment(Installment installment)
-        {
-            Installments.Add(installment);
-        }
+        
     }
 }

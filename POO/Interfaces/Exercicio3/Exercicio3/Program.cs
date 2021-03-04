@@ -33,13 +33,7 @@ namespace Exercicio3
             Console.Write("Type the number of installmensts: ");
             int months = int.Parse(Console.ReadLine());
 
-            Constract myConstract = new ContractService(new PaypalService());
-            constractService.ProcessConstract(myContract, months);
-
-            foreach(Installment installment in myContract.Installment)
-            {
-                Console.WriteLine(installment);
-            }
+            
         }
     }
 }
