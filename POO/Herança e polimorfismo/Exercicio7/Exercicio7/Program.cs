@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Globalization;
+using System.Collections.Generic;
+using Exercicio7.Entities;
 
 /*Fazer um programa para ler os dados de N contribuintes (N fornecido pelo usuário), os quais
 podem ser pessoa física ou pessoa jurídica, e depois mostrar o valor do imposto pago por cada um,
@@ -23,7 +26,41 @@ namespace Exercicio7
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            List<TaxPayer> list = new List<TaxPayer>();
+            Console.WriteLine("Type the number of tax payers: ");
+            int n = int.Parse(Console.ReadLine());
+
+            for(int i = 1; i<=n; i++)
+            {
+                Console.WriteLine($"{i}º tax payer data: ");
+                Console.Write("Individual or company: ");
+                char type = char.Parse(Console.ReadLine());
+                Console.WriteLine("Type the name: ");
+                string name = Console.ReadLine();
+                Console.WriteLine("Type the Anual income: ");
+                double income = double.Parse(Console.ReadLine());
+
+                if(type == 'i')
+                {
+                    Console.Write("Type the health expenditures: ");
+                    double healthExpenditures = double.Parse(Console.ReadLine());
+                    list.Add(new Individual(name, income, healthExpenditures));
+                }
+                else
+                {
+                    Console.WriteLine("Type the number of employees: ");
+                    int numberofEmployee = int.Parse(Console.ReadLine());
+                    list.Add(new Company(name, income, numberofEmployee));
+                }
+            }
+
+            double sum = 0;
+            foreach(TaxPayer tpayer in list)
+            {
+                double tax = tpayer.Tax();
+                Console.WriteLine($" Name: {tpayer.Name}, R${tpayer.tax.ToString("F2")}");
+                sum += tax;
+            }
         }
     }
 }
